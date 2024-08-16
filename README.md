@@ -9,9 +9,8 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about AI, Software Develo
 - 🌱 **Currently Learning:** I'm currently delving into advanced machine learning techniques and cutting-edge AI frameworks. The future is AI, and I'm here for it!
 - 💞️ **Looking to Collaborate On:** Exciting AI projects, open-source software, and innovative tech solutions that push the boundaries of what's possible.
 - 📫 **How to Reach Me:**
-  - **Email:** ijlalahmed10@google.com
+  - **Email:** ijlalahmed10@gmail.com
   - **LinkedIn:** [Ijlal Ahmed](https://www.linkedin.com/in/ijlal-ahmed)
-- 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: When I'm not coding, you might find me painting stuff, playing table tennis, or out on the football field!
 
 
