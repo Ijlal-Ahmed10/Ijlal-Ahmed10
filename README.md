@@ -4,10 +4,10 @@
 ---
 
 ## 💫 About Me
-🔭 I enjoy building things, solving problems, and exploring how AI and software engineering can create real impact.
-🤝 I’m open to collaborating on meaningful projects—whether they involve AI, backend development, or full-stack ideas.
-🌱 I’m always learning, improving, and looking for opportunities that push me to think better and build better.
-💬 Talk to me about Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation, and cloud-based workflows.
+🔭 I enjoy building things, solving problems, and exploring how AI and software engineering can create real impact.<br>
+🤝 I’m open to collaborating on meaningful AI, backend development, or full-stack ideas.<br>
+🌱 I’m always learning, improving, and looking for opportunities that push me to think better and build better.<br>
+💬 Talk to me about Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation, and cloud-based workflows.<br>
 ⚡ Always curious, always learning.
 
 ---
