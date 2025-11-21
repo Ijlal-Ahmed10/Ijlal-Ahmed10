@@ -3,18 +3,17 @@
 
 ---
 
-## 💫 About Me  
-🔭 I’m currently building **AI engineering projects, research experiments & backend systems**  
-👯 I love collaborating on **AI/ML pipelines, LLM apps, backend APIs, and full-stack platforms**  
-🤝 I’m open to contributions to my projects on **AGI (ARC), RAG systems, Flask apps, and automation**  
-🌱 I’m currently leveling up in **Advanced Backend Engineering, System Design & LangChain**  
-💬 Ask me about **Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation & cloud**  
+## 💫 About Me
+🔭 I enjoy building things, solving problems, and exploring how AI and software engineering can create real impact.
+🤝 I’m open to collaborating on meaningful projects—whether they involve AI, backend development, or full-stack ideas.
+🌱 I’m always learning, improving, and looking for opportunities that push me to think better and build better.
+💬 Talk to me about Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation, and cloud-based workflows.
+⚡ Always curious, always learning.
 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijlal-ahmed)  
-<!--[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](YOUR_TWITTER_URL)  -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijlal-ahmed)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijlalahmed10@gmail.com)
 
 ---
