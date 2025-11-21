@@ -1,24 +1,3 @@
-# Hey there, I'm Ijlal Ahmed! 👋
-
-Welcome to my GitHub! I'm a tech enthusiast passionate about AI, Software Development, and UI/UX Design.
-
-
-
-## About Me
-- 👀 **Interests:** I'm passionate about software development, artificial intelligence, and blending tech with creativity. Always on the lookout for the next big thing in tech!
-- 🌱 **Currently Learning:** I'm currently delving into advanced machine learning techniques and cutting-edge AI frameworks. The future is AI, and I'm here for it!
-- 💞️ **Looking to Collaborate On:** Exciting AI projects, open-source software, and innovative tech solutions that push the boundaries of what's possible.
-- 📫 **How to Reach Me:**
-  - **Email:** ijlalahmed10@gmail.com
-  - **LinkedIn:** [Ijlal Ahmed](https://www.linkedin.com/in/ijlal-ahmed)
-- ⚡ **Fun Fact**: When I'm not coding, you might find me painting stuff, playing table tennis, or out on the football field!
-
-
-
-
-## Let's Connect
-
----
 <h1 align="center">Hi 👋, I'm Ijlal Ahmed</h1>
 <h3 align="center">Software Engineer | AI/ML, Backend, Python, Flask, React</h3>
 
@@ -30,15 +9,13 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about AI, Software Develo
 🤝 I’m open to contributions to my projects on **AGI (ARC), RAG systems, Flask apps, and automation**  
 🌱 I’m currently leveling up in **Advanced Backend Engineering, System Design & LangChain**  
 💬 Ask me about **Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation & cloud**  
-⚡ Fun fact: **I’m a perfectionist problem-solver who codes, creates, and thinks in overdrive**  
-📄 [View my Resume → **Resume**](YOUR_RESUME_LINK)
 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](YOUR_TWITTER_URL)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijlal-ahmed)  
+<!--[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](YOUR_TWITTER_URL)  -->
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ijlalahmed10@gmail.com)
 
 ---
 
@@ -76,7 +53,6 @@ Welcome to my GitHub! I'm a tech enthusiast passionate about AI, Software Develo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
