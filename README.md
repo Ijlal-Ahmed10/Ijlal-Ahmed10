@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ijlal Ahmed</h1>
-<h3 align="center">Software Engineer | AI/ML, Backend, Python, Flask, React</h3>
+<h1 align="center">Hi there 👋, I'm Ijlal Ahmed</h1>
+<h3 align="center">Software Engineer | AI/ML Enthusiast | The Curious</h3>
 
 ---
 
 ## 💫 About Me
-🔭 I enjoy building things, solving problems, and exploring how AI and software engineering can create real impact.<br>
-🤝 I’m open to collaborating on meaningful AI, backend development, or full-stack ideas.<br>
-🌱 I’m always learning, improving, and looking for opportunities that push me to think better and build better.<br>
-💬 Talk to me about Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation, and cloud-based workflows.<br>
-⚡ Always curious, always learning.
+🔭 I love building things — sometimes serious, sometimes experimental, sometimes "it worked at 3am but not anymore."<br>
+🤝 Always open to collaborating on fun AI ideas, backend chaos, or full-stack adventures.<br>
+🌱 Always learning something new, usually with a cup of chai in my hand.<br>
+💬 Talk to me about Python, Flask, FastAPI, MySQL, AI/ML, LLM integrations, automation, or why that one bug only appears when you’re confident.<br>
+⚡ Fueled by curiosity, caffeine, and questionable commit messages.
 
 ---
 
@@ -32,7 +32,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### **Databases**
@@ -43,8 +42,6 @@
 ### **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -56,27 +53,17 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+### ⚡ Fun Fact
 
-## 🚀 Featured Projects  
-### 💡 **AGI on ARC — Neuro-Symbolic Reasoning System**
-A research-driven project building an AGI-inspired system capable of solving ARC tasks using:  
-LoRA-fine-tuned LLMs, symbolic encodings, DFS-based sampling, and augmentation-aware scoring.
+I’m the kind of person who gets lost in building cool things, learning new tech, or just enjoying life — and so my GitHub, portfolio, and socials sometimes look abandoned. If you ever see me inactive, don’t panic… I’m not dead, or kidnapped, or living in the mountains (probably).
 
-### 🤖 **HR-RAG Chatbot Portal (Flask + LangChain + RAG)**
-End-to-end RAG-based portal for HR document answering using vector search, embeddings, and LLMs.
+I just forget to update things.
 
-### 🎮 **Gaming Den Platform**
-Full-stack event/tournament management ecosystem for competitive gaming experiences.
-
-### 🔍 **AI Theft Detection (YOLO + OpenCV)**
-Computer vision pipeline for real-time theft/abnormal activity detection.
+But I’m always around! Feel free to reach out — I’d love to connect, share what I’ve been working on, or just have a good conversation about tech, AI, or anything interesting.
 
 ---
 
-Always excited to build, collaborate, and push boundaries.  
-**Let’s create something remarkable together!** 🚀
-
-
+*"Curiosity didn’t kill the cat — it forked reality and pushed a better version."* 🐱
 
 <!---
 Ijlal-Ahmed10/Ijlal-Ahmed10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
